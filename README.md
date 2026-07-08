@@ -24,7 +24,7 @@ This repository contains the complete execution of the Primetrade.ai Data Scienc
 3. **Run the Analysis:**
    Open the Jupyter Notebook to view the code, outputs, and interactive visualizations:
    ```bash
-   jupyter notebook primetrade_assessment.ipynb
+   jupyter notebook notebook.ipynb
    ```
    *Note: Ensure both `historical_data.csv` and `fear_greed_index.csv` remain in the dataset directory for the notebook to execute properly.*
 
