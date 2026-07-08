@@ -11,7 +11,7 @@ This repository contains the complete execution of the Primetrade.ai Data Scienc
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/primetrade-assessment.git](https://github.com/your-username/primetrade-assessment.git)
+   git clone https://github.com/kush180/primetrade-assessment.git
    cd primetrade-assessment
    ```
 
