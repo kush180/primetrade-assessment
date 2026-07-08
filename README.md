@@ -1,7 +1,6 @@
 # Primetrade.ai Data Science Assessment: Trader Performance vs. Market Sentiment
 
 **Applicant:** Kushagra Verma  
-**Roll Number:** 231020430  
 
 This repository contains the complete execution of the Primetrade.ai Data Science Intern Round-0 assignment. The analysis investigates how market sentiment (Bitcoin Fear/Greed Index) dictates trader behavior and performance on the Hyperliquid platform.
 
