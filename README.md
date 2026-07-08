@@ -11,7 +11,7 @@ This repository contains the complete execution of the Primetrade.ai Data Scienc
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/kush180/primetrade-assessment.git
+   git clone [https://github.com/your-username/primetrade-assessment.git](https://github.com/your-username/primetrade-assessment.git)
    cd primetrade-assessment
    ```
 
@@ -26,7 +26,7 @@ This repository contains the complete execution of the Primetrade.ai Data Scienc
    ```bash
    jupyter notebook notebook.ipynb
    ```
-   *Note: Ensure both `historical_data.csv` and `fear_greed_index.csv` remain in the dataset directory for the notebook to execute properly.*
+   *Note: Ensure the `datasets` folder containing both `historical_data.csv` and `fear_greed_index.csv` remains in the root directory for the notebook to execute properly.*
 
 ---
 
